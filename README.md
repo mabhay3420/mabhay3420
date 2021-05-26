@@ -5,10 +5,10 @@
 The Aim of this Bio is to please the eyes of those who came to my profile by some chance. I am amazed by the complexity of world and the plan is to add some more 😅
 ## About Me:</br>
 🏫 CSE Undergraduate at IIT Kanpur.</br>
-🔭 I’m currently working on [Mathematics-for-dl](https://github.com/mabhay3420/Deep-learning-Projects/tree/master/Mathematics_of_dl)</br>
-🌱 I’m currently exploring [Deep learning.](deeplearningbook.org)</br>
-👯 I’m looking to collaborate on [Tree-visualization](https://github.com/mabhay3420/coding-basics/tree/master/DSA_Basics) and [Visualization-of-Deep-learning-models](https://github.com/mabhay3420/Deep-learning-Projects/tree/master/Mathematics_of_dl/Principal_Component_Analysis) .</br>
-📫 How to reach me: abhaymishra3420@gmail.com </br>
+🔭 I’m currently working on [llvm-passes](https://github.com/mabhay3420/llvm-practice)</br>
+🌱 I’m currently exploring [deep-learning](deeplearningbook.org) and [llvm](https://llvm.org/docs/index.html)</br>
+👯 I’m looking to collaborate on [Implementing-State-of-the-Art-papers](mailto:abhaymishra3420@gmail.com) and [Mathematics-of-Deep-learning-models](https://github.com/mabhay3420/Deep-learning-Projects/tree/master/Mathematics_of_dl) .</br>
+📫 How to reach me: [abhaymishra3420@gmail.com](mailto:abhaymishra3420@gmail.com) </br>
 ⚡ Fun fact: Books 📚 + Music 🎵+ Movies 🎥 + " Anything I don't understand at once" 🧠.</br>
 
 ## Github
