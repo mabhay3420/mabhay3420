@@ -3,28 +3,13 @@
 <!--
 **mabhay3420/mabhay3420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 The Aim of this Bio is to please the eyes of those who came to my profile by some chance. I am amazed by the complexity of world and the plan is to add some more 😅
+
 ### About Me:</br>
 🏫 CSE Undergraduate at IIT Kanpur.</br>
-🔭 I’m currently working on [llvm-passes](https://github.com/mabhay3420/llvm-practice)</br>
-🌱 I’m currently exploring [llvm Compiler Framework](https://llvm.org/docs/index.html)</br>
-📫 How to reach me: [abhaymishra3420@gmail.com](mailto:abhaymishra3420@gmail.com) </br>
 ⚡ Fun fact: Books 📚 + Music 🎵+ Movies 🎥 + " Anything I don't understand at once" 🧠.</br>
 
 ### Github
 [![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=mabhay3420&count_private=true&show_icons=true&theme=outrun)](https://github.com/mabhay3420)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabhay3420&show_icons=true&theme=blue-green&layout=compact&exclude_repo=Deep-learning-Projects)](https://github.com/mabhay3420)
-<a href="https://github.com/mabhay3420/iitk-coin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhay3420&repo=iitk-coin&show_icons=true&theme=flag-india" />
-</a> 
-<a href="https://github.com/mabhay3420/Deep-learning-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhay3420&repo=Deep-learning-Projects&show_icons=true&theme=nightowl" />
-</a> 
-<a href="https://github.com/mabhay3420/coding-basics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhay3420&repo=coding-basics&show_icons=true&theme=react" />
-</a> 
-<a href="https://github.com/mabhay3420/bash-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mabhay3420&repo=bash-scripts&show_icons=true&theme=slateorange" />
-</a> 
 
 <!-- </br></br></br></br></br></br>
 </br></br></br></br></br></br>
